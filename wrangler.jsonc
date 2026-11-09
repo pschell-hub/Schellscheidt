@@ -1,0 +1,15 @@
+// Cloudflare settings for the schellscheidt.net website.
+// The whole folder is published as a plain static website.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "schellscheidt",
+  "compatibility_date": "2026-11-09",
+  // The real addresses (schellscheidt.net and www.schellscheidt.net) are added
+  // here later, once the domain itself has been moved to Cloudflare.
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "."
+  }
+}
