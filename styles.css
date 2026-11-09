@@ -24,6 +24,7 @@ section{padding:96px 0}
 h2{font-weight:800;font-size:clamp(32px,4vw,46px);line-height:1.15;margin-bottom:16px}
 .intro{color:var(--muted);max-width:620px;margin-bottom:56px}
 .doors{background:var(--bg)}
+.doors .intro{max-width:none}
 .cards{display:grid;grid-template-columns:1fr 1fr;gap:32px}
 .card{background:var(--bg-mid);padding:48px 44px;border-top:4px solid var(--accent);display:flex;flex-direction:column}
 .card .tag{font-size:14px;font-weight:800;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:14px}
