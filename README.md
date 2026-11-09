@@ -4,8 +4,7 @@ Website of Schellscheidt d.o.o. (Patrick Schellscheidt), the company page that l
 
 ## What is in this repository
 
-- `index.html` – home page draft (title: "Transformation Coach & Fractional COO")
-- `index1.html` – later home page draft (title: "Coaching & Consulting")
+- `index.html` – home page ("Coaching & Consulting")
 - `legal.html` – legal notice
 - `styles.css` – the shared design
 - `images/` – photo and logo used by the pages
